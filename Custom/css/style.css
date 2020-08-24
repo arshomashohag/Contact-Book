@@ -1,0 +1,21 @@
+﻿.required {
+    color: red;
+}
+
+.btn-edit {
+    color: blue;
+}
+
+.btn-delete {
+    color: red;
+}
+
+.carousel-item {
+    height: calc(100vh - 56px);
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
